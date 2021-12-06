@@ -36,5 +36,3 @@ Open http://localhost:3000 to view it in the browser.
 **go failed on run asking for gcc**
 
 `Confirm gcc bin folder in your Environment PATH variable`
-
-**port conflicting with other application**
